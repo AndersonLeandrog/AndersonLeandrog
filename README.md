@@ -5,7 +5,7 @@
 
 - 🌱 Eu estou aprendendo **Node, ReactJS e jQuery**
 
-- 👨‍💻 Meu portfólio [https://andersonleandrog.github.io/Portfolio/](https://andersonleandrog.github.io/Meu-Portfolio/)
+- 👨‍💻 Meu portfólio [https://andersonleandrog.github.io/Portfolio/](https://andersonleandrog.github.io/Portfolio/)
 
 - 💬 Pergunte me sobre **Javascript, Node, React e jQuery**
 
